@@ -93,3 +93,20 @@ The website browser tab custom icon should be displayed.
 The website browser tab custom icon is not displayed.
 
 ----------------
+
+**Priority and severity:**
+P3 - Normal
+
+**Description:**
+The not found page shows a 404 not found error page instead of a custom not found page.
+
+**Steps to reproduce:**
+1. Go to http://www.ploiesti.ro/aaaaaaaaa
+
+**Expected result:**
+The website should show a custom not found page.
+
+**Actual result:**
+The website is showing a 404 not found error page instead of a custom not found page.
+
+----------------
