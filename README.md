@@ -59,3 +59,20 @@ The website should show the page.
 The website is not showing the page and displays 404 not found error.
 
 ----------------
+
+**Priority and severity:**
+P2 - High
+
+**Description:**
+The website is loading too slow and it takes over 10 seconds for a full load. The website should fully load fast, in less than 4 seconds.
+
+**Steps to reproduce:**
+1. Go to https://www.primariatechirghiol.ro/ 
+
+**Expected result:**
+The website should fully load fast, in less than 3 seconds.
+
+**Actual result:**
+The website is loading too slow and it takes over 10 seconds for a full load.
+
+----------------
