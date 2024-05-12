@@ -131,7 +131,7 @@ The website resources size is too big, with over 62 mb.
 **Priority and severity:**
 P5 - Normal
 
-**Description:*
+**Description:**
 The word “îță” from the context “Care Center 24/7 Dacă întâmpini dificultăți, ne poți scrie direct în chat-ul din app sau ne poți suna la *SALT (*7258). Indiferent ce variantă alegi, la noi îță răspund întotdeauna doar oameni-oameni, nu roboți.” is wrote wrong and instead “îță” should be “îți”.
 
 **Steps to reproduce:**
