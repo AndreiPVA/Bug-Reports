@@ -42,3 +42,20 @@ The website should be responsive and easy to read on a mobile phone.
 The website is not responsive and is hard to read on a mobile phone.
 
 ----------------
+
+**Priority and severity:**
+P4 - Normal
+
+**Description:**
+The link is broken, the page is not found on the website and displays 404 error.
+
+**Steps to reproduce:**
+1. Go to https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie_persoana_fizica.php
+
+**Expected result:**
+The website should show the page.
+
+**Actual result:**
+The website is not showing the page and displays 404 not found error.
+
+----------------
