@@ -24,3 +24,21 @@ User is not logged and no error appears.
 - Password: 12345
 
 ----------------
+
+**Priority and severity:**
+P3 - Normal
+
+**Description:**
+When trying to view the website on a mobile phone, it is hard to read and unresponsive.
+
+**Steps to reproduce:**
+1. Go to https://www.primariatechirghiol.ro/ 
+2. View the website on a mobile phone
+
+**Expected result:**
+The website should be responsive and easy to read on a mobile phone.
+
+**Actual result:**
+The website is not responsive and is hard to read on a mobile phone.
+
+----------------
