@@ -110,3 +110,35 @@ The website should show a custom not found page.
 The website is showing a 404 not found error page instead of a custom not found page.
 
 ----------------
+
+**Priority and severity:**
+P2 - Normal
+
+**Description:**
+The website resources size is too big, with over 62 mb, instead of under 7 mb.
+
+**Steps to reproduce:**
+1. Go to http://www.ploiesti.ro/
+
+**Expected result:**
+The website resources size should be small, under 7 mb.
+
+**Actual result:**
+The website resources size is too big, with over 62 mb.
+
+----------------
+
+**Priority and severity:**
+P5 - Normal
+
+**Description:*
+The word “îță” from the context “Care Center 24/7 Dacă întâmpini dificultăți, ne poți scrie direct în chat-ul din app sau ne poți suna la *SALT (*7258). Indiferent ce variantă alegi, la noi îță răspund întotdeauna doar oameni-oameni, nu roboți.” is wrote wrong and instead “îță” should be “îți”.
+
+**Steps to reproduce:**
+1. Go to https://salt.bank/conturi-carduri-plati
+
+**Expected result:**
+The word from the context should be “îți”.
+
+**Actual result:**
+The word from the context is “îță”.
