@@ -76,3 +76,20 @@ The website should fully load fast, in less than 3 seconds.
 The website is loading too slow and it takes over 10 seconds for a full load.
 
 ----------------
+
+**Priority and severity:**
+P4 - Normal
+
+**Description:**
+The website browser tab custom icon is not displayed.
+
+**Steps to reproduce:**
+1. Go to http://www.ploiesti.ro/
+
+**Expected result:**
+The website browser tab custom icon should be displayed.
+
+**Actual result:**
+The website browser tab custom icon is not displayed.
+
+----------------
