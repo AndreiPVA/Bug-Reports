@@ -3,25 +3,24 @@ Below are some Bug Reports samples that I wrote while working on previous projec
 
 ----------------
 
+**Priority and severity:**
+P2 - High
+
 **Description:**
-Check if login works when a person uses correct credentials.
+When trying to login with the correct credentials, nothing happens. The user is not logged in and no error message is displayed.
 
-Steps to reproduce:
+**Steps to reproduce:**
+1. Go to www.website.com/login
+2. Add a correct user/password
 
-Open https://auth.emag.ro/user/login
-Add correct email adress
-Click "Continua" button
-Add correct password
-Click "Continua" button
-Expected results:
+**Expected result:**
+User should be able to login and is taken to his profile page.
 
-User should be able to open the login page
-User should be able to add his correct email adress
-User should be able to go to the next step and add his correct password
-User should be able to add his correct password
-User should be able to login and is redirected to his profile page
-Test data:
+**Actual result:**
+User is not logged and no error appears.
 
-User: Andrei
-Password: 12345
-Pre-conditions: User should have a valid account.
+**Test data:**
+- User: Andrei
+- Password: 12345
+
+----------------
